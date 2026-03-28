@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1> I'm Rafiqul Islam Reja</h1>
 # 💫 About Me:
-👋<br><br>- 🔭 I’m currently working on Mechanical engineering research and computational fluid dynamics (CFD) simulations.<br>- 👯 I’m looking to collaborate on** Open-source engineering tools, aerodynamics projects, or Python-based data analysis.<br>- 🤝 I am currently looking for a research partner to collaborate on joint research projects.<br>- 🌱 I’m currently learning Data Science, Cybersecurity fundamentals, and advanced Fluid Mechanics.<br>- 💬 Ask me about Physics, Calculus, LaTeX documentation, or anything related to Fluid Mechanics , Aerodynamics ,Alternatives Fuel and Advance Materials.<br>- ⚡ Fun fact I actually enjoy debugging complex mathematical derivations.
+👋<br><br>- 🔭 I’m currently working on Mechanical engineering research and computational fluid dynamics (CFD) simulations.<br>- 👯 I’m looking to collaborate on** Open-source engineering tools, aerodynamics projects, or Python-based data analysis.<br>- 🤝 I am currently looking for a research partner to collaborate on joint research projects.<br>- 🌱 I’m currently learning Data Science, Cybersecurity fundamentals, and advanced Fluid Mechanics.<br>- 💬 Ask me about Physics, Calculus, LaTeX documentation, or anything related to Fluid Mechanics , Aerodynamics ,Alternatives Fuel and Advance Materials.<br>- ⚡ I actually enjoy debugging complex mathematical derivations.
 
 
 ## 🌐 Socials:
